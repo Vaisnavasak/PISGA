@@ -1,0 +1,13 @@
+PROJECT OBJECTIVES
+
+To develop a web-based system that allows students to register and manage their skill profiles.
+
+To enable students to select their desired job role and compare their skills against industry requirements.
+
+To automatically identify and display the skill gap between student skills and job requirements.
+
+To predict student placement probability using Machine Learning (Logistic Regression).
+
+To provide personalized course recommendations for missing skills.
+
+To help placement officers monitor student placement readiness.
